@@ -1,4 +1,9 @@
 import React from "react";
+import {motion, AnimatePresence} from "framer-motion"
+import QRCode from "qrcode.react"
+import "./menu.css"
+
+
 
 function Menu() {
   return (
